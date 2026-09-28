@@ -1,6 +1,5 @@
 -- ========================================================
 -- Project: Blinkit Grocery Sales & Performance Analysis
--- Author: Sara
 -- Database Engine: MySQL
 -- ========================================================
 
