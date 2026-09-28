@@ -19,7 +19,6 @@ This project performs end-to-end data exploration, cleaning, transformation, and
 ## 🛠️ Tech Stack & Database Engine
 - **Database Engine:** MySQL
 - **Language:** SQL
-- **Author:** YOUR_NAME
 
 ---
 
