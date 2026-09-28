@@ -43,7 +43,7 @@ The analysis operates on the `blinkit` table within the database schema:
 
 ---
 
-## 🔍 Key Data Cleaning & Transformations
+## 🔍 Key Data Cleaning & Transformations 
 1. **Primary Key Setup:** Defined a composite primary key (`Item_Identifier`, `Outlet_Identifier`) to prevent duplicate entries.
 2. **Data Standardization:** Uniformed inconsistent categorical entries in `Item_Fat_Content` (`'reg'` $\rightarrow$ `'regular'`, `'LF'` $\rightarrow$ `'low fat'`).
 3. **Feature Engineering:** Calculated `net_quantity` (`Item_Outlet_Sales / Item_MRP`) to approximate total volume/units sold per item.
@@ -67,5 +67,5 @@ The analysis operates on the `blinkit` table within the database schema:
 ---
 
 ## 👤 Author
-**YOUR_NAME**
+**Hemachandran**
 - GitHub: https://github.com/hemachandran-hub
