@@ -10,9 +10,9 @@ This project performs end-to-end data exploration, cleaning, transformation, and
 ---
 
 ## 📁 Repository Structure
-- `blinkit_analysis.sql` - Complete SQL queries covering table creation, data cleaning, feature engineering, and KPI analyses.
 - `blinkit_dataset.csv` - The raw Blinkit grocery sales dataset used for analysis.
 - `README.md` - Documentation, schema overview, and key business insights.
+- `blinkit_analysis.sql` - Complete SQL queries covering table creation, data cleaning, feature engineering, and KPI analyses.
 
 ---
 
